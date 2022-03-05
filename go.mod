@@ -1,3 +1,3 @@
-module github.com/version
+module github.com/swooosh13/version
 
 go 1.16
