@@ -1,7 +1,5 @@
 package version
 
-import "fmt"
-
-func Version() {
-	fmt.Println("1.0.0")
+func Version() string {
+	return "v2.0.0"
 }
